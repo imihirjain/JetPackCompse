@@ -1,6 +1,9 @@
 [versions]
 agp = "8.10.1"
+<<<<<<< HEAD
 constraintlayoutCompose = "1.1.1"
+=======
+>>>>>>> origin/main
 kotlin = "2.2.10"
 coreKtx = "1.17.0"
 junit = "4.13.2"
@@ -11,7 +14,10 @@ activityCompose = "1.11.0"
 composeBom = "2025.09.00"
 
 [libraries]
+<<<<<<< HEAD
 androidx-constraintlayout-compose = { module = "androidx.constraintlayout:constraintlayout-compose", version.ref = "constraintlayoutCompose" }
+=======
+>>>>>>> origin/main
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
 androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
